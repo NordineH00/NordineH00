@@ -1,6 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=58A6FF&lines=Hello+!;Welcome+to+my+GitHub+👋)](https://git.io/typing-svg)
 
-![Full Stack Web Developer](https://readme-typing-svg.herokuapp.com?duration=2000&pause=2000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=80&size=28&duration=2500&pause=1000&color=58A6FF&lines=Full+Stack+Web+Developer;Frontend+Developer;Backend+Developer;DevOps)](https://git.io/typing-svg)
+
 
 
 Full‑stack dev. Idea → deploy with **TypeScript, Prisma/MySQL, Docker, tests**.  
