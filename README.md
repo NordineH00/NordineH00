@@ -1,6 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=58A6FF&lines=Hello+!;Welcome+to+my+GitHub+👋)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=80&size=28&duration=2500&pause=1000&color=58A6FF&lines=Full+Stack+Web+Developer;Frontend+Developer;Backend+Developer;DevOps)](https://git.io/typing-svg)
+## Full Stack Web Developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&height=40&size=22&duration=2000&pause=800&color=58A6FF&lines=Frontend+Developer;Backend+Developer;DevOps)](https://git.io/typing-svg)
 
 
 
