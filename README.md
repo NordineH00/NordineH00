@@ -1,12 +1,10 @@
 <!-- Titre animé -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=58A6FF&lines=Hello+!;Welcome+to+my+GitHub+👋)](https://git.io/typing-svg)
-
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NordineH00/NordineH00/refs/heads/main/webdev-color-cycle.svg" width="300">
 </div>
-
 
 ---
 
