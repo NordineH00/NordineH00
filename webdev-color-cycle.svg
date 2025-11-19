@@ -1,0 +1,20 @@
+<svg width="300" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font: bold 32px sans-serif;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      animation: colorCycle 5s infinite;
+    }
+
+    @keyframes colorCycle {
+      0%   { fill: #58A6FF; }
+      25%  { fill: #3FB950; }
+      50%  { fill: #F778A1; }
+      75%  { fill: #F4BD4F; }
+      100% { fill: #58A6FF; }
+    }
+  </style>
+
+  <text x="150" y="30" class="title">Web Developer</text>
+</svg>
