@@ -33,7 +33,7 @@ Nice, France · English/French · Open to roles & collaborations
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NordineH00&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" width="48%">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NordineH00&layout=compact&theme=radical&hide_border=true&hide_title=true" width="48%">
 </div>
 
