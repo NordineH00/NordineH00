@@ -31,19 +31,6 @@ Nice, France · English/French · Open to roles & collaborations
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NordineH00&layout=compact&theme=radical&hide_border=true&hide_title=true" width="48%">
-</div>
-
----
-
-## ⚡ Fun & Interests
-Football ⚽ · Chess ♟️ · Travel 🌍 · Cinema 🎬  
-
----
-
 ## 📫 Contact
 - [LinkedIn](https://linkedin.com/in/nordinehadni)  
 - Email: nordinehadni@gmail.com  
